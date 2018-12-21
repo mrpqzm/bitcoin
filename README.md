@@ -6,7 +6,7 @@ Bitcoin Core integration/staging tree
 https://bitcoincore.org
 
 What is Bitcoin?
-----------------
+-----------------
 
 Bitcoin is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
